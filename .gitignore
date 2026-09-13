@@ -1,0 +1,6 @@
+.venv/
+models/
+piper/
+voice_cache/
+config.py
+__pycache__/
